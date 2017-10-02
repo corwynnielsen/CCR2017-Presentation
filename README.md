@@ -1,1 +1,1 @@
-Add reveal.js to directory and run on webserver
+Clone the repository and put it in document root
